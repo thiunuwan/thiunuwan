@@ -7,8 +7,8 @@
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=thiunuwan&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width = 410>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=thiunuwan&theme=dark&hide_border=true" width = 440>
+  <img src = "https://github-readme-stats.vercel.app/api?username=thiunuwan&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width = 390>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=thiunuwan&theme=dark&hide_border=true" width = 430>
   
 </p>
 
