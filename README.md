@@ -18,9 +18,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiunuwan&theme=dark" width=270>
   </span>
 
-   <span>
+   <!-- <span>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiunuwan&theme=dark" width=270>
-  </span>
+  </span> -->
 
 </p>
 
