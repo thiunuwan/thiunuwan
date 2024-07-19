@@ -25,9 +25,9 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiunuwan&theme=dark" width = 555>
 
 
-<a href="https://holopin.io/@thiunuwan">
+ <!-- <a href="https://holopin.io/@thiunuwan">
   <img src="https://holopin.me/thiunuwan" alt="An image of @thiunuwan's Holopin badges" style="width:826px;">
-</a>
+</a> -->
 
 
 </p>
