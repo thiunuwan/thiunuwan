@@ -36,6 +36,16 @@
    <!--  [![An image of @thiunuwan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thiunuwan)](https://holopin.io/@thiunuwan) -->
 
 
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=thiunuwan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&bg_color=1E90FF" width="390">
+
+
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=thiunuwan&theme=dark&hide_border=true&background=1E90FF" width="430">
+
+
+
+
+
+
 
 
 
