@@ -9,23 +9,47 @@
 </picture>
 </p>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=thiunuwan&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width = 390>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=thiunuwan&theme=dark&hide_border=true" width = 430>
-  
+<p align="center">
+  <!-- GitHub Readme Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=thiunuwan&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thiunuwan&theme=default&hide_border=true&include_all_commits=false&count_private=true" 
+         alt="GitHub Readme Stats" width="390" />
+  </picture>
+
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=thiunuwan&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=thiunuwan&theme=default&hide_border=true" 
+         alt="GitHub Streak Stats" width="430" />
+  </picture>
 </p>
+
 
 <p align = "center">
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiunuwan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width = 290> -->
    
-  <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiunuwan&theme=dark" width=270>
-  </span>
+<span>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiunuwan&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiunuwan&theme=default" 
+         alt="Most Commit Language Card" width="270" />
+  </picture>
+</span>
+
 
    <!-- <span>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiunuwan&theme=dark" width=270>
   </span> -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiunuwan&theme=dark" width = 555>
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiunuwan&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiunuwan&theme=default" 
+       alt="GitHub Profile Details" width="555" />
+</picture>
 
 
  <!-- <a href="https://holopin.io/@thiunuwan">
