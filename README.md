@@ -11,20 +11,20 @@
 
 <p align="center">
   <!-- GitHub Readme Stats -->
-  <picture>
+<!--   <picture>
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://github-readme-stats.vercel.app/api?username=thiunuwan&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=thiunuwan&theme=default&hide_border=true&include_all_commits=false&count_private=true" 
          alt="GitHub Readme Stats" width="390" />
   </picture>
-
+ -->
   <!-- GitHub Streak Stats -->
-  <picture>
+<!--   <picture>
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://github-readme-streak-stats.herokuapp.com?user=thiunuwan&theme=dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=thiunuwan&theme=default&hide_border=true" 
          alt="GitHub Streak Stats" width="430" />
-  </picture>
+  </picture> -->
 </p>
 
 
